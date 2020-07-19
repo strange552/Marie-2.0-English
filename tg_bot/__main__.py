@@ -18,9 +18,9 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-@adrewjons is saying 'hello' {}, my name is {}! if you have any questions about how to use me please give me /help... 
+@adrewjons is saying 'hello' to {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+this group handler bot was created by [this master](tg://user?id={}).
 
 My future updates will be put into This Channel - @XstreamMovies & My Support Group @Letsdlu.
 
@@ -29,7 +29,7 @@ i will give soon..
 
 For more commands click /help...
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+**Any complaints regarding this bot,contact the creator.**
 
 """
 
